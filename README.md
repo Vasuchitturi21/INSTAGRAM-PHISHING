@@ -1,2 +1,2 @@
-# instagram-phishing
+# INSTAgGRAM-PHISHING
 .
